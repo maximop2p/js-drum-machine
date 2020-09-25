@@ -1,10 +1,7 @@
-# <a href=https://wonderful-lichterman-363588.netlify.app/>js-drum-machine</a>
-
-<br>
+# [js-drum-machine](https://maximosantoro.github.io/js-drum-machine/)
 a simple Javascript + HTML + CSS drum machine - (use keys to play different samples)
 
-
-
-### link 2
-
-https://wonderful-lichterman-363588.netlify.app/
+i hope you find it useful. 
+<br\>
+### linklinklink
+https://maximosantoro.github.io/js-drum-machine/
